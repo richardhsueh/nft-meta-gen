@@ -1,0 +1,23 @@
+{
+  "0": {
+    "id": 0,
+    "name": "9/5",
+    "description": "Open cube 9/5",
+    "image_url": "https://media.mutualart.com/Images/2016_04/22/22/225316537/1886c2b3-099b-4307-934f-e6da7c82dffa_570.Jpeg",
+    "title": "9/5"
+  },
+  "1": {
+    "id": 1,
+    "name": "8/25",
+    "description": "Open cube 8/25",
+    "image_url": "https://d2u3kfwd92fzu7.cloudfront.net/catalog/artwork/photo/LeWitt_SL-P-99-SC.jpg",
+    "title": "8/25"
+  },
+  "2": {
+    "id": 2,
+    "name": "8/3",
+    "description": "Open cube 8/3",
+    "image_url": "https://5.api.artsmia.org/800/2210.jpg",
+    "title": "8/3"
+  }
+}
